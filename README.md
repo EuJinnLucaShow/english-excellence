@@ -1,19 +1,5 @@
 ![Landing Page](./assets/screencapture.png)
 
-# Presentation
-
-![Start](./assets/01.jpg)
-
-![Team](./assets/02.jpg)
-
-![Client](./assets/03.jpg)
-
-![Propose](./assets/04.jpg)
-
-![Tech](./assets/05.jpg)
-
-![Goodbye](./assets/06.jpg)
-
 # Examples of writing commits on a project
 
 ## We use the following types of commits:
